@@ -1,0 +1,384 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "spooky3",
+		"player1": "bf-final-glow",
+		"player2": "spooky3-5-glow",
+		"player3": null,
+		"events": [
+			[
+				10885.7142857143,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				10971.4285714286,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-final"
+					],
+					[
+						"Change Character",
+						"1",
+						"spooky3"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				11057.1428571429,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"bf"
+					]
+				]
+			],
+			[
+				31457.1428571429,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				31542.8571428571,
+				[
+					[
+						"Change Character",
+						"1",
+						"spooky3-glow"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-final-glow"
+					],
+					[
+						"Add Black Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32828.5714285714,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				32914.2857142857,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-final"
+					],
+					[
+						"Change Character",
+						"1",
+						"spooky3"
+					]
+				]
+			],
+			[
+				38314.2857142857,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-final-glow"
+					],
+					[
+						"Add Black Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"spooky3-glow"
+					]
+				]
+			],
+			[
+				54771.4285714286,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				54857.1428571429,
+				[
+					[
+						"Change Character",
+						"1",
+						"spooky3"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-final"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65742.8571428572,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				65828.5714285714,
+				[
+					[
+						"Add Black Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"spooky3-glow"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-final-glow"
+					]
+				]
+			],
+			[
+				76714.2857142857,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Change Character",
+						"1",
+						"spooky3"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-final"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87685.7142857142,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87769.2857142856,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-final-pico"
+					]
+				]
+			],
+			[
+				87771.4285714286,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-final-pico"
+					],
+					[
+						"Change Character",
+						"1",
+						"spooky3-5"
+					]
+				]
+			],
+			[
+				87857.1428571428,
+				[
+					[
+						"Hey!",
+						"gf",
+						"1"
+					]
+				]
+			],
+			[
+				109628.571428571,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-final-pico-glow"
+					],
+					[
+						"Add Black Camera Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"spooky3-5-glow"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-final-glow"
+					]
+				]
+			],
+			[
+				109800,
+				[
+					[
+						"Hey!",
+						"gf",
+						"1"
+					]
+				]
+			],
+			[
+				120342.857142857,
+				[
+					[
+						"Add Black End Flash",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-blank",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Chiller"
+	}
+}

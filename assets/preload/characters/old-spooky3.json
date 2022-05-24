@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				232,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "note sing left"
+		},
+		{
+			"offsets": [
+				-58,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spooky sing right"
+		},
+		{
+			"offsets": [
+				62,
+				-144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spooky DOWN note"
+		},
+		{
+			"offsets": [
+				94,
+				3
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "spooky dance idle",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			]
+		},
+		{
+			"offsets": [
+				63,
+				21
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spooky UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				3
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "spooky dance idle",
+			"indices": [
+				0,
+				2,
+				4,
+				6
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spooky_kids_assets3-old",
+	"position": [
+		50,
+		220
+	],
+	"healthicon": "spooky3-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		39,
+		184,
+		222
+	],
+	"camera_position": [
+		-50,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
